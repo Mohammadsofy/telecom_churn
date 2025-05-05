@@ -36,4 +36,5 @@ To run the analysis on your local machine:
    - `telecom_churn.ipynb`
      https://github.com/Mohammadsofy/telecom_churn/blob/main/telecom_churn.ipynb
 2. Open the notebook using Jupyter:
+   ```bash
    jupyter notebook telecom_churn.ipynb
